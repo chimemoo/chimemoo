@@ -1,6 +1,8 @@
 ### Hello there! I'm Christ 👋
 
-- 🔭 I’m currently work as Software Developer at Moonlay
-- 🌱 I’m currently learning React and Data Science
+- 🔭 Work as Software Developer at Moonlay
+- 🌱 Currently learning Javascript especially in React, and Data Science
+- 📝 Writing article/note on [chimemoo.github.com](http://chimemoo.github.io)
+- 👤 My linkedin : https://www.linkedin.com/in/christmemory/
 
 In the weekend, i worked on side project for learning purpose, check out some projects below 👇
