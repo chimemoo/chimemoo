@@ -1,5 +1,14 @@
 # My Learning Portofolio
 
+## Golang
+1. [Start Golang](https://github.com/chimemoo/learn-golang)
+
+
+## Java
+1. Android
+    - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java)
+
+
 ## Javascript
 1. React
     - [ReactJS Breakingbad Character Web using Breakingbad API](https://github.com/chimemoo/reactjs-breakingbad-character)
@@ -21,7 +30,6 @@
     - [PPDB](https://github.com/chimemoo/ppdb)
     - [Motherpakar - Expert system for Motherboard Malfunction](https://github.com/chimemoo/motherpakar)
     - [Numlet - outgoing mail number system](https://github.com/chimemoo/numlet)
-
 
 
 ## Data Science
