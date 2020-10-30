@@ -7,6 +7,7 @@
 ## Java
 1. Android
     - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java)
+    - [Android Food Delivery App](https://github.com/chimemoo/android-food-delivery-app)
 
 
 ## Javascript
@@ -19,9 +20,9 @@
 
 
 3. React Native
-    - [Exploration Food App From Case Study](https://github.com/chimemoo/explorationFoodApp)
-    - [Very Simple Todo App using RealmDB](https://github.com/chimemoo/VerySimpleTodoApp)
-    - [React Native Quiz App](https://github.com/chimemoo/reactnativequizapp)
+    - [Exploration Food App From Case Study](hhttps://github.com/chimemoo/react-native-food-app)
+    - [Very Simple Todo App using RealmDB](https://github.com/chimemoo/react-native-very-simple-todo-app)
+    - [React Native Quiz App](https://github.com/chimemoo/react-native-quiz-app)
 
 
 
