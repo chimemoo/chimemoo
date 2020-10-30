@@ -20,7 +20,7 @@
 
 
 3. React Native
-    - [Exploration Food App From Case Study](hhttps://github.com/chimemoo/react-native-food-app)
+    - [Exploration Food App From Case Study](https://github.com/chimemoo/react-native-food-app)
     - [Very Simple Todo App using RealmDB](https://github.com/chimemoo/react-native-very-simple-todo-app)
     - [React Native Quiz App](https://github.com/chimemoo/react-native-quiz-app)
 
