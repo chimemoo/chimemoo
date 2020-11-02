@@ -1,6 +1,6 @@
 ### Hello there! I'm Christ 👋
 
-[![Chimemoo's github stats](https://github-readme-stats.vercel.app/api?username=chimemoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Chimemoo's github stats](https://github-readme-stats.vercel.app/api?username=chimemoo&count_private=true)](https://github.com/chimemoo)
 
 - 🔭 Work as Software Developer at Moonlay
 - 💻 Linux User
