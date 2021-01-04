@@ -7,7 +7,7 @@
 - 🌱 Currently learning Javascript especially in React, and Data Science
 - 📝 Writing article/note on [chimemoo.github.com](http://chimemoo.github.io)
 - 👤 My linkedin : https://www.linkedin.com/in/christmemory/
-- 🎲 My Learning Portofolio [Click Here!](https://github.com/chimemoo/chimemoo/blob/master/PORTOFOLIO.md) 
+- 🎲 <b>My Learning Portofolio</b> [Click Here!](https://github.com/chimemoo/chimemoo/blob/master/PORTOFOLIO.md) 
 - 🏢 Sometime i'am doing freelance with my own software studio @chimemoostudio  
 
 In the weekend, i worked on side project for learning purpose, check out some projects below 👇
