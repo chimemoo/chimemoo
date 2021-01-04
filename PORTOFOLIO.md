@@ -6,7 +6,7 @@
 
 ## Java
 1. Android
-    - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java)
+    - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java) (Simple Android Project)
     - [Android Food Delivery App](https://github.com/chimemoo/android-food-delivery-app)
 
 
