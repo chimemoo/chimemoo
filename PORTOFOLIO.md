@@ -1,11 +1,13 @@
 # My Learning Portofolio
 
 ## Golang
-1. [Start Golang](https://github.com/chimemoo/learn-golang)
+1. [Start Golang](https://github.com/chimemoo/learn-golang-basic)
 
 
 ## Java
-1. Android
+1. Java
+    - [Java Basic](https://github.com/chimemoo/learn-java-basic)
+2. Android
     - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java) (Simple Android Project)
     - [Android Food Delivery App](https://github.com/chimemoo/android-food-delivery-app)
 
