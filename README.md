@@ -4,7 +4,7 @@
 
 - 🔭 Work as Software Developer at Moonlay
 - 💻 Linux User
-- 🌱 Currently learning Javascript especially in React & React Native, Android Native (Java)
+- 🌱 Currently learning Javascript especially in React & React Native, Android Native (Java & Kotlin)
 - 📝 Writing article/note on [chimemoo.github.com](http://chimemoo.github.io)
 - 👤 My linkedin : https://www.linkedin.com/in/christmemory/
 - 🎲 <b>My Learning Portofolio</b> [Click Here!](https://github.com/chimemoo/chimemoo/blob/master/PORTOFOLIO.md) 
