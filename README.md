@@ -9,6 +9,6 @@
 - 👤 My linkedin : https://www.linkedin.com/in/christmemory/
 - 🎲 <b>My Learning Portofolio</b> [Click Here!](https://github.com/chimemoo/chimemoo/blob/master/PORTOFOLIO.md) 
 - 🏢 Sometime i'am doing freelance with my own software studio @chimemoostudio  
-- Checkout my current project [studyspace.site](http://studyspace.site)
+- Checkout my current project [studyspace.site](https://studyspace.site)
 
 In the weekend, i worked on side project for learning purpose, check out some projects below 👇
