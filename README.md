@@ -2,7 +2,7 @@
 
 [![Chimemoo's github stats](https://github-readme-stats.vercel.app/api?username=chimemoo&count_private=true)](https://github.com/chimemoo)
 
-- 🔭 Work as Software Developer at Stockbit & Bibit.id
+- 🔭 Work as Frontend Engineer at Stockbit & Bibit.id
 - 💻 Linux User
 - 🌱 Currently learning Javascript especially in React & React Native, Android Native (Java & Kotlin)
 - 📝 Writing article/note on [chimemoo.github.com](http://chimemoo.github.io)
