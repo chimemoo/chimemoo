@@ -10,12 +10,15 @@
 2. Android
     - [Learn Fundamental Android](https://github.com/chimemoo/learn-android-java) (Simple Android Project)
     - [Android Food Delivery App](https://github.com/chimemoo/android-food-delivery-app)
+    - [Android SpaceX App](https://github.com/chimemoo/android-kotlin-go-space-x)
 
 
 ## Javascript
 1. React
     - [ReactJS Breakingbad Character Web using Breakingbad API](https://github.com/chimemoo/reactjs-breakingbad-character)
     - [Gatsby Blog Gram Theme, Like Instagram Blog](https://github.com/chimemoo/gatsby-blog-gram-theme)
+    - [NextJS Pokemon Website](https://github.com/chimemoo/tokopedia-next-js-pokemon-dev-test)
+    - [ReactJS Movie Website](https://github.com/chimemoo/stockbit-react-js-dev-test)
 
 2. Express
     - [ExpressJS Markdown Blog using MongoDB](https://github.com/chimemoo/expressjs-simple-markdown-blog)
