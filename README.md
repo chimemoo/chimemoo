@@ -5,7 +5,7 @@
 - 🔭 Work as Frontend Engineer at Stockbit & Bibit.id
 - 💻 Linux User
 - 🌱 Currently learning Javascript especially in React & React Native, Android Native (Java & Kotlin)
-- 📝 Writing article/note on [chimemoo.github.com](http://chimemoo.github.io)
+- 📝 Writing article/note on [chimemoo.vercel.app](http://chimemoo.vercel.app)
 - 👤 My linkedin : https://www.linkedin.com/in/christmemory/
 - 🎲 <b>My Learning Portofolio</b> [Click Here!](https://github.com/chimemoo/chimemoo/blob/master/PORTOFOLIO.md) 
 - 🏢 Sometime i'am doing freelance with my own software studio @chimemoostudio  
